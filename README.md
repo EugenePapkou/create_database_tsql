@@ -1,2 +1,2 @@
 # create_database_tsql
-Creating sql-database using T-SQL
+Creating custom sql-database using T-SQL
